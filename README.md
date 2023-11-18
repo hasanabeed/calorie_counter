@@ -1,7 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>🍏 CALORIE COUNTER 🏋️</title>
 </head>
 <body>
 
