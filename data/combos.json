@@ -1,0 +1,34 @@
+{
+  "combos": [
+      {
+          "id": "combo-1",
+          "name": "cheesy combo",
+          "meals": [
+              "meal-2",
+              "meal-5",
+              "meal-8"
+          ],
+          "price": 11
+      },
+      {
+          "id": "combo-2",
+          "name": "veggie combo",
+          "meals": [
+              "meal-3",
+              "meal-5",
+              "meal-7"
+          ],
+          "price": 10
+      },
+      {
+          "id": "combo-3",
+          "name": "vegan combo",
+          "meals": [
+              "meal-4",
+              "meal-6",
+              "meal-8"
+          ],
+          "price": 10
+      }
+  ]
+}
